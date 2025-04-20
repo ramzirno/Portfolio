@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', function() {
     {
       name: "UI Animation Library",
       description: "A collection of modern animations and transitions for web applications, optimized for performance.",
-      link: "#",
+      link: "https://github.com/ramzirno/State-Events",
       image: "https://images.unsplash.com/photo-1639762681057-408e52192e55?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&h=400&q=80",
       tags: ["JavaScript", "CSS Animations", "GSAP"]
     },
